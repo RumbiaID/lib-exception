@@ -1,4 +1,4 @@
-package exception
+package lib_exception
 
 // Code is a type alias for string, representing the error code of an exception.
 type Code string
