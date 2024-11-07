@@ -1,1 +1,1 @@
-module exception
+module github.com/RumbiaID/lib-exception
